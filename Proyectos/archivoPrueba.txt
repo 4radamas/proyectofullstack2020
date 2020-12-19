@@ -1,0 +1,9 @@
+
+Realice las siguientes tareas:
+
+1.	Almacene algunos archivos y suba la actualización.
+2.	Realice algunos cambios en un archivo y suba el cambio señalando los cambios realizados.
+3.	Restaure a una versión anterior el archivo del punto anterior.
+4.	Renombre el archivo y suba el cambio.
+5.	Confirme todos los cambios.
+
